@@ -1,11 +1,8 @@
-- 🤠 I am a curious data professional with 4 years experience in the technology sector, ranging from web development, which gives me excellent practice in data analysis and visualizations with programming; cloud computing, which allows me to access algorithms, tools and data for staying up to date and easy collaboration with teams; and analytics which helps me to uncover actionable business insights for stakeholders.
+- 🤠I am a curious data professional with four years of experience in the technology sector, including web development, which gives me excellent practice in data analysis and data visualization with programming; cloud computing, which gives me access to algorithms, tools, and data for staying up to date and easy collaboration with teams; and analytics, which allows me to uncover actionable business insights for stakeholders. I am a Global MBA student with domain expertise in business and technology, which qualifies me to assist firms in improving processes, systems, operations, and decision-making.
 
-- 🤹 I have an excellent understanding and proficiency of platforms for effective data analyses, including SQL, R,  Big Query, Tableau, Power BI, and Spreadsheet. Strong  communication, organizational, and analytical skills.
+- 🤹 I am confident that the valuable combination of my skills, knowledge, and experience will transfer to the data analyst or business analyst role at your organization in helping project teams and stakeholders to understand the requirements for projects and ensure that solutions are developed based on requirements.
 
-- 🎓 I completed the Google Data Analytics Professional Certificate, a rigorous, hands-on program that covers the entire scope of the data analysis process.
-
-- ❤️‍🔥 I have proficient domain knowledge in technology and I am passionate about helping organization advance on the data maturity
-scale, i.e., identifying issues before they become problems and acting on opportunities before their competitions.
+- 🎓 I am proficient in data analysis and business intelligence technologies such as SQL, R, Big Query, Tableau, Power BI, Spreadsheet, VBA, and Macros. Outstanding communication, organizational, and analytical skills. I am deeply committed to assisting your organization by providing business intelligence resources to spot issues before they become problems and promptly act on possibilities. I also believe that my six-sigma knowledge will help your firm achieve continual process improvement.
 
 <!---
 TolulopeOyejide/TolulopeOyejide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
