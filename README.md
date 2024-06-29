@@ -1,8 +1,4 @@
-- 🤠I am a curious data professional with four years of experience in the technology sector, including web development, which gives me excellent practice in data analysis and data visualization with programming; cloud computing, which gives me access to algorithms, tools, and data for staying up to date and easy collaboration with teams; and analytics, which allows me to uncover actionable business insights for stakeholders. I am a Global MBA candidate with domain expertise in business and technology, which qualifies me to assist firms in improving processes, systems, operations, and decision-making.
-
-- 🎓 I am proficient in data analysis and business intelligence technologies such as SQL, Python, Big Query, Power BI, Spreadsheet, VBA, and Macros, Azure Databricks. Outstanding communication, organizational, and analytical skills.
-
-- 🔥 I am a passionate advocate for Africa's advancement in technology. I enjoy developing data-driven, user-centric solutions that are useful in increasing efficiency and profitability for enterprises.
+I am a data scientist with a strong passion for leveraging data-driven insights to drive digital transformation. With a proven track record of developing and implementing innovative data solutions, I excel at translating complex data into actionable strategies that drive business growth and improve operational efficiency. My expertise in machine learning, predictive analytics, and data preprocessing enables me to uncover valuable insights that drive informed decision-making and strategic planning. I am dedicated to staying ahead of industry trends and continuously expanding my skill set to deliver cutting-edge solutions that drive digital transformation and propel organizations to new heights of success.
   
 <!---
 TolulopeOyejide/TolulopeOyejide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
