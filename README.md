@@ -1,4 +1,4 @@
-✅ I am a seasoned data professional with a strong passion for leveraging data-driven insights to drive digital transformation.
+✅ I am a seasoned data scientist with a strong passion for leveraging data-driven insights to drive digital transformation.
 
 ✅ With a proven track record of developing and implementing innovative data solutions, I excel at translating complex data into actionable strategies that drive business growth and improve operational efficiency.
 
