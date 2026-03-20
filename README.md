@@ -1,12 +1,9 @@
-✅ I am a seasoned data scientist and AI Engineer with a strong passion for leveraging data-driven insights and intelligent systems to drive digital transformation.
+Senior ML Engineer & AI Systems Builder | Building intelligent systems that turn data into decisions.
 
-✅ With a proven track record of developing and implementing innovative data and AI solutions, I excel at translating complex data into actionable strategies that drive business growth and improve operational efficiency.
+- I design and deploy end-to-end AI and data solutions — from LLM integrations and predictive models to data pipelines and analytics infrastructure.
 
-✅ My expertise in machine learning, LLMs, predictive analytics, and data preprocessing enables me to uncover valuable insights that drive informed decision-making and strategic planning.
+- My work sits at the intersection of technical depth and business impact: I don't just build models, I make sure they solve real problems.
 
-✅ I am dedicated to staying ahead of industry trends and continuously expanding my skill set to deliver cutting-edge solutions that drive digital transformation and propel your organization to new heights of success.
+- Current focus areas: machine learning engineering, LLM applications and helping organizations move from raw data to actionable intelligence.
   
-<!---
-TolulopeOyejide/TolulopeOyejide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Host of EverydayAI Explained · Making AI practical for African professionals and beyond.
